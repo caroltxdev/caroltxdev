@@ -7,7 +7,7 @@
 
 - 📫 Como me contactar **carolinateixeira.150@gmail.com**
 
-- 📄 Sobre minhas experiências [Conhecimentos em fron-end, experiência acadêmica e prática em projetos de desenvolvimento web e POO. Curiosa, determinada e em constante aprendizado para me tornar uma desenvolvedora de excelência.](Conhecimentos em fron-end, experiência acadêmica e prática em projetos de desenvolvimento web e POO. Curiosa, determinada e em constante aprendizado para me tornar uma desenvolvedora de excelência.)
+- 📄 Sobre minhas experiências - Conhecimentos em front-end, experiência acadêmica e prática em projetos de desenvolvimento web e POO. Curiosa, determinada e em constante aprendizado para me tornar uma desenvolvedora de excelência.
 
 - ⚡ Fun fact **Além de codar, sou faixa azul no jiu-jitsu, faço ballet clássico e adoro desafios que unem lógica, criatividade e superação.**
 
