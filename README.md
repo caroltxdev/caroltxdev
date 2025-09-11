@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou a Ana Carolina</h1>
 <h3 align="center">Uma pessoa APAIXONADA por códigos e problemas a resolver!</h3>
 
-- 🔭 Atualmente estou trabalhando em **Site Intituto Vesalius**
+- 🔭 Atualmente estou trabalhando em um **Site para o Intituto Vesalius**
 
 - 🌱 Atualmente estou me aperfeiçoando em **Javascript e React.js**
 
