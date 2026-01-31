@@ -41,8 +41,8 @@ const ana = {
 
 ## 🚀 O Que Eu Faço
 
-- 🔭 **Atualmente trabalhando em:** Site para o Instituto Vesalius
-- 🌱 **Aprendendo:** JavaScript avançado e React.js
+- 🔭 **Atualmente trabalhando em:** Sistema de gestão ambiental IBA
+- 🌱 **Aprendendo:** Java21
 - 💡 **Especialidades:** Desenvolvimento Full-Stack, APIs RESTful, Banco de Dados
 - 🎯 **Objetivo:** Me tornar uma desenvolvedora de excelência
 - ⚡ **Fun Fact:** União perfeita entre lógica, criatividade e superação - no código e no tatame!
