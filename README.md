@@ -133,8 +133,8 @@ const ana = {
 Estou sempre aberta a novos projetos, colaborações e conversas sobre tecnologia! 
 
 📧 **Email:** carolinateixeira.150@gmail.com  
-💼 **LinkedIn:** [ana-teixeira-bb072625b](https://linkedin.com/in/ana-teixeira-bb072625b)  
-🌐 **Portfolio:** Em construção 🚧
+💼 **LinkedIn:** https://www.linkedin.com/in/ana-teixeiradev/  
+🌐 **Portfolio:** https://portifolio-anateixeira.netlify.app/
 
 </div>
 
