@@ -134,7 +134,7 @@ Estou sempre aberta a novos projetos, colaborações e conversas sobre tecnologi
 
 📧 **Email:** carolinateixeira.150@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/ana-teixeiradev/  
-🌐 **Portfolio:** https://portifolio-anateixeira.netlify.app/
+🌐 **Portfolio:** https://portifolio-delta-nine.vercel.app/
 
 </div>
 
